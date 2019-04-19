@@ -1,0 +1,14 @@
+name: Big_Announcement
+main: Big_Announcement\Main
+author: Teaclon
+version: 1.0.6
+api: 
+ - 1.0.0
+ - 2.0.0
+ - 3.0.0
+load: POSTWORLD
+description: Big Announcement.
+
+commands:
+  b:
+    description: b.
